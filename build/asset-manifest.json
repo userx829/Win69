@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.08a4080f.css",
+    "main.js": "/static/js/main.2dc708d6.js",
+    "static/js/453.8ab44547.chunk.js": "/static/js/453.8ab44547.chunk.js",
+    "static/media/flyingsound.mp3": "/static/media/flyingsound.c4bee4f5c65d46b033cb.mp3",
+    "static/media/takeoffsound.mp3": "/static/media/takeoffsound.a054c3b778cf9dbc2604.mp3",
+    "static/media/images-removebg-preview.png": "/static/media/images-removebg-preview.b69607f1c6393eea1924.png",
+    "static/media/HD-wallpaper-grid-yellow-grid-abstract-artist-artwork-digital-art-deviantart-dark-black-thumbnail.jpg": "/static/media/HD-wallpaper-grid-yellow-grid-abstract-artist-artwork-digital-art-deviantart-dark-black-thumbnail.e4ff97c5ef7b1e45e633.jpg",
+    "index.html": "/index.html",
+    "main.08a4080f.css.map": "/static/css/main.08a4080f.css.map",
+    "main.2dc708d6.js.map": "/static/js/main.2dc708d6.js.map",
+    "453.8ab44547.chunk.js.map": "/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08a4080f.css",
+    "static/js/main.2dc708d6.js"
+  ]
+}
